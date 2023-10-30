@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "244FC0AD-1DD3-4E3C-BD53-19BA138EA235"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE7D42FB-C846-4B78-9053-E04B800F4D7B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "dallaUITest_mainView/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "190"
+            endingLineNumber = "190"
+            landmarkName = "setupUI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "440886DE-C142-4405-88BC-6A2CCB147510"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "dallaUITest_mainView/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "111E63B7-A7DA-402B-82BE-FF3B313D3CBE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "dallaUITest_mainView/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "viewDidLayoutSubviews()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "111E63B7-A7DA-402B-82BE-FF3B313D3CBE - aa0ef831d3117f63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "dallaUITest_mainView.ViewController.viewDidLayoutSubviews() -&gt; ()"
+                  moduleName = "dallaUITest_mainView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jounghui/Desktop/sourceTest/03.%E1%84%92%E1%85%AC%E1%84%89%E1%85%A1%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD/01.%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%90%E1%85%A5%E1%86%AB/dalla_mainView/dallaUITest_mainView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "111E63B7-A7DA-402B-82BE-FF3B313D3CBE - aa0ef831d3117f63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "dallaUITest_mainView.ViewController.viewDidLayoutSubviews() -&gt; ()"
+                  moduleName = "dallaUITest_mainView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jounghui/Desktop/sourceTest/03.%E1%84%92%E1%85%AC%E1%84%89%E1%85%A1%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD/01.%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%90%E1%85%A5%E1%86%AB/dalla_mainView/dallaUITest_mainView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
